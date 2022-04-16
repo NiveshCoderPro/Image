@@ -1,0 +1,13 @@
+body {
+    background-position:center;
+    background-size: cover;
+}
+.heading {
+    width: 100%;
+    font-size:23px;
+    margin:0px;
+}
+canvas {
+  border:20px black solid;
+border-style: groove;
+}

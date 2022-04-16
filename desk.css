@@ -1,0 +1,11 @@
+.heading {
+    margin:0px;
+    width:100%;
+    font-size:23px;
+
+}
+
+canvas {
+    border:20px red solid;
+    border-style: groove;
+}

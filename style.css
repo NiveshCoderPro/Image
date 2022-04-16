@@ -1,0 +1,35 @@
+body {
+    background-size:cover;
+    background-position: center;
+    text-align: center;
+}
+#title {
+    font-size: 25px;
+    font:bold;
+}
+.bedroom {
+    background-color: white;
+    
+}
+.TV-AC {
+    background-color: white;
+   
+} 
+.Desk {
+    background-color:white;
+}
+.Bottles {
+    background-color:white;
+}
+.Fruit-basket {
+    background-color: white;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color:white;
+    background-color: grey;
+    width:100%;
+    line-height: 3;
+    bottom:0;
+}
